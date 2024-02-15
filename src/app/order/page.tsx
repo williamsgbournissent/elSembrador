@@ -14,7 +14,12 @@ const OrderForm = () => {
   const { setValue } = useLocalStorage();
 
   const fetchMenu = async () => {
-    const response = await fetch("/api/menu");
+    const response = await fetch("/api/menu", {
+      method: "GET",
+      headers: {
+        "Content-Type": "application/json",
+      },
+    });
     const data = await response.json();
     const result = data.menus;
 
