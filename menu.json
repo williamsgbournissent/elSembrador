@@ -1,0 +1,398 @@
+[
+  {
+    "idMenu": "3065",
+    "fecha": "06/12/2023",
+    "opcion": "Bifes a la criolla + Bifes a la criolla + Arrollado de jamón y queso",
+    "tipo": "Oficina"
+  },
+  {
+    "idMenu": "3066",
+    "fecha": "06/12/2023",
+    "opcion": "Bifes a la criolla + Bifes a la criolla + Arrollado de jamón y queso",
+    "tipo": "Oficina"
+  },
+  {
+    "idMenu": "3067",
+    "fecha": "06/12/2023",
+    "opcion": "Bifes a la criolla + Arroz con champignones + Arrollado de jamón y queso",
+    "tipo": "Oficina"
+  },
+  {
+    "idMenu": "3068",
+    "fecha": "06/12/2023",
+    "opcion": "Bifes a la criolla + Arroz con champignones + Ensalada de lechuga, tomate, huevo, aceitunas y queso",
+    "tipo": "Oficina"
+  },
+  {
+    "idMenu": "3069",
+    "fecha": "06/12/2023",
+    "opcion": "Bifes a la criolla + Terrina de berenjenas + Arrollado de jamón y queso",
+    "tipo": "Oficina"
+  },
+  {
+    "idMenu": "3070",
+    "fecha": "06/12/2023",
+    "opcion": "Bifes a la criolla + Terrina de berenjenas + Ensalada de lechuga, tomate, huevo, aceitunas y queso",
+    "tipo": "Oficina"
+  },
+  {
+    "idMenu": "3071",
+    "fecha": "06/12/2023",
+    "opcion": "Bifes a la criolla + Tortilla de acelga gratinada + Arrollado de jamón y queso",
+    "tipo": "Oficina"
+  },
+  {
+    "idMenu": "3072",
+    "fecha": "06/12/2023",
+    "opcion": "Bifes a la criolla + Tortilla de acelga gratinada + Ensalada de lechuga, tomate, huevo, aceitunas y queso",
+    "tipo": "Oficina"
+  },
+  {
+    "idMenu": "3073",
+    "fecha": "06/12/2023",
+    "opcion": "Quesadilla de ternera + Quesadilla de ternera + Arrollado de jamón y queso",
+    "tipo": "Oficina"
+  },
+  {
+    "idMenu": "3074",
+    "fecha": "06/12/2023",
+    "opcion": "Quesadilla de ternera + Quesadilla de ternera + Arrollado de jamón y queso",
+    "tipo": "Oficina"
+  },
+  {
+    "idMenu": "3075",
+    "fecha": "06/12/2023",
+    "opcion": "Quesadilla de ternera + Arroz con champignones + Arrollado de jamón y queso",
+    "tipo": "Oficina"
+  },
+  {
+    "idMenu": "3076",
+    "fecha": "06/12/2023",
+    "opcion": "Quesadilla de ternera + Arroz con champignones + Ensalada de lechuga, tomate, huevo, aceitunas y queso",
+    "tipo": "Oficina"
+  },
+  {
+    "idMenu": "3077",
+    "fecha": "06/12/2023",
+    "opcion": "Quesadilla de ternera + Terrina de berenjenas + Arrollado de jamón y queso",
+    "tipo": "Oficina"
+  },
+  {
+    "idMenu": "3078",
+    "fecha": "06/12/2023",
+    "opcion": "Quesadilla de ternera + Terrina de berenjenas + Ensalada de lechuga, tomate, huevo, aceitunas y queso",
+    "tipo": "Oficina"
+  },
+  {
+    "idMenu": "3079",
+    "fecha": "06/12/2023",
+    "opcion": "Quesadilla de ternera + Tortilla de acelga gratinada + Arrollado de jamón y queso",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3080",
+    "fecha": "06/12/2023",
+    "opcion": "Quesadilla de ternera + Tortilla de acelga gratinada + Ensalada de lechuga, tomate, huevo, aceitunas y queso",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3081",
+    "fecha": "06/13/2023",
+    "opcion": "Milanesas de pollo + Puré de papas + Empanadas caprese",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3082",
+    "fecha": "06/13/2023",
+    "opcion": "Milanesas de pollo + Puré de papas + Ensalada de remolacha, arvejas y huevo",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3083",
+    "fecha": "06/13/2023",
+    "opcion": "Milanesas de pollo + Calabazas rebozadas + Empanadas caprese",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3084",
+    "fecha": "06/13/2023",
+    "opcion": "Milanesas de pollo + Calabazas rebozadas + Ensalada de remolacha, arvejas y huevo",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3085",
+    "fecha": "06/13/2023",
+    "opcion": "Milanesas de pollo + Budín de verduras + Empanadas caprese",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3086",
+    "fecha": "06/13/2023",
+    "opcion": "Milanesas de pollo + Budín de verduras + Ensalada de remolacha, arvejas y huevo",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3087",
+    "fecha": "06/13/2023",
+    "opcion": "Pata muslo rellena bañada en salsa 4 quesos + Puré de papas + Empanadas caprese",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3088",
+    "fecha": "06/13/2023",
+    "opcion": "Pata muslo rellena bañada en salsa 4 quesos + Puré de papas + Ensalada de remolacha, arvejas y huevo",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3089",
+    "fecha": "06/13/2023",
+    "opcion": "Pata muslo rellena bañada en salsa 4 quesos + Calabazas rebozadas + Empanadas caprese",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3090",
+    "fecha": "06/13/2023",
+    "opcion": "Pata muslo rellena bañada en salsa 4 quesos + Calabazas rebozadas + Ensalada de remolacha, arvejas y huevo",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3091",
+    "fecha": "06/13/2023",
+    "opcion": "Pata muslo rellena bañada en salsa 4 quesos + Budín de verduras + Empanadas caprese",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3092",
+    "fecha": "06/13/2023",
+    "opcion": "Pata muslo rellena bañada en salsa 4 quesos + Budín de verduras + Ensalada de remolacha, arvejas y huevo",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3093",
+    "fecha": "06/14/2023",
+    "opcion": "Milanesas de merluza + Tortilla mixta (calabaza y zapallito) + Pizza integral de queso y morrones",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3094",
+    "fecha": "06/14/2023",
+    "opcion": "Milanesas de merluza + Tortilla mixta (calabaza y zapallito) + Ensalada de repollo, manzanas verdes y tomate",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3095",
+    "fecha": "06/14/2023",
+    "opcion": "Milanesas de merluza + Papas con crema de queso y verdeo + Pizza integral de queso y morrones",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3096",
+    "fecha": "06/14/2023",
+    "opcion": "Milanesas de merluza + Papas con crema de queso y verdeo + Ensalada de repollo, manzanas verdes y tomate",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3097",
+    "fecha": "06/14/2023",
+    "opcion": "Milanesas de merluza + Torre de berenjenas + Pizza integral de queso y morrones",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3098",
+    "fecha": "06/14/2023",
+    "opcion": "Milanesas de merluza + Torre de berenjenas + Ensalada de repollo, manzanas verdes y tomate",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3099",
+    "fecha": "06/14/2023",
+    "opcion": "Ensalada de atun, arroz, zanahoria, tomate y huevo + Ensalada de atun, arroz, zanahoria, tomate y huevo + Pizza integral de queso y morrones",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3100",
+    "fecha": "06/14/2023",
+    "opcion": "Ensalada de atun, arroz, zanahoria, tomate y huevo + Ensalada de atun, arroz, zanahoria, tomate y huevo + Pizza integral de queso y morrones",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3101",
+    "fecha": "06/14/2023",
+    "opcion": "Ensalada de atun, arroz, zanahoria, tomate y huevo + Tortilla mixta (calabaza y zapallito) + Pizza integral de queso y morrones",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3102",
+    "fecha": "06/14/2023",
+    "opcion": "Ensalada de atun, arroz, zanahoria, tomate y huevo + Tortilla mixta (calabaza y zapallito) + Ensalada de repollo, manzanas verdes y tomate",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3103",
+    "fecha": "06/14/2023",
+    "opcion": "Ensalada de atun, arroz, zanahoria, tomate y huevo + Papas con crema de queso y verdeo + Pizza integral de queso y morrones",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3104",
+    "fecha": "06/14/2023",
+    "opcion": "Ensalada de atun, arroz, zanahoria, tomate y huevo + Papas con crema de queso y verdeo + Ensalada de repollo, manzanas verdes y tomate",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3105",
+    "fecha": "06/14/2023",
+    "opcion": "Ensalada de atun, arroz, zanahoria, tomate y huevo + Torre de berenjenas + Pizza integral de queso y morrones",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3106",
+    "fecha": "06/14/2023",
+    "opcion": "Ensalada de atun, arroz, zanahoria, tomate y huevo + Torre de berenjenas + Ensalada de repollo, manzanas verdes y tomate",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3107",
+    "fecha": "06/14/2023",
+    "opcion": "Hamburguesas de carne gratinadas + Tortilla mixta (calabaza y zapallito) + Pizza integral de queso y morrones",
+    "tipo": "Semanal"
+  },
+  {
+    "idMenu": "3108",
+    "fecha": "06/14/2023",
+    "opcion": "Hamburguesas de carne gratinadas + Tortilla mixta (calabaza y zapallito) + Ensalada de repollo, manzanas verdes y tomate",
+    "tipo": "Semanal"
+  },
+  {
+    "idMenu": "3109",
+    "fecha": "06/14/2023",
+    "opcion": "Hamburguesas de carne gratinadas + Papas con crema de queso y verdeo + Pizza integral de queso y morrones",
+    "tipo": "Semanal"
+  },
+  {
+    "idMenu": "3110",
+    "fecha": "06/14/2023",
+    "opcion": "Hamburguesas de carne gratinadas + Papas con crema de queso y verdeo + Ensalada de repollo, manzanas verdes y tomate",
+    "tipo": "Semanal"
+  },
+  {
+    "idMenu": "3111",
+    "fecha": "06/14/2023",
+    "opcion": "Hamburguesas de carne gratinadas + Torre de berenjenas + Pizza integral de queso y morrones",
+    "tipo": "Semanal"
+  },
+  {
+    "idMenu": "3112",
+    "fecha": "06/14/2023",
+    "opcion": "Hamburguesas de carne gratinadas + Torre de berenjenas + Ensalada de repollo, manzanas verdes y tomate",
+    "tipo": "Semanal"
+  },
+  {
+    "idMenu": "3113",
+    "fecha": "06/16/2023",
+    "opcion": "Cuadril a la pizza + Papas a la provenzal + Fugazza integral de queso",
+    "tipo": "Semanal"
+  },
+  {
+    "idMenu": "3114",
+    "fecha": "06/16/2023",
+    "opcion": "Cuadril a la pizza + Papas a la provenzal + Ensalada de lechuga, tomate y huevo",
+    "tipo": "Semanal"
+  },
+  {
+    "idMenu": "3115",
+    "fecha": "06/16/2023",
+    "opcion": "Cuadril a la pizza + Salteadito oriental + Fugazza integral de queso",
+    "tipo": "Semanal"
+  },
+  {
+    "idMenu": "3116",
+    "fecha": "06/16/2023",
+    "opcion": "Cuadril a la pizza + Salteadito oriental + Ensalada de lechuga, tomate y huevo",
+    "tipo": "Semanal"
+  },
+  {
+    "idMenu": "3117",
+    "fecha": "06/16/2023",
+    "opcion": "Cuadril a la pizza + Milanesas de berenjenas + Fugazza integral de queso",
+    "tipo": "Semanal"
+  },
+  {
+    "idMenu": "3118",
+    "fecha": "06/16/2023",
+    "opcion": "Cuadril a la pizza + Milanesas de berenjenas + Ensalada de lechuga, tomate y huevo",
+    "tipo": "Semanal"
+  },
+  {
+    "idMenu": "3119",
+    "fecha": "06/16/2023",
+    "opcion": "Pata muslo al horno con aderezo + Papas a la provenzal + Fugazza integral de queso",
+    "tipo": "Semanal"
+  },
+  {
+    "idMenu": "3120",
+    "fecha": "06/16/2023",
+    "opcion": "Pata muslo al horno con aderezo + Papas a la provenzal + Ensalada de lechuga, tomate y huevo",
+    "tipo": "Semanal"
+  },
+  {
+    "idMenu": "3121",
+    "fecha": "06/16/2023",
+    "opcion": "Pata muslo al horno con aderezo + Salteadito oriental + Fugazza integral de queso",
+    "tipo": "Semanal"
+  },
+  {
+    "idMenu": "3122",
+    "fecha": "06/16/2023",
+    "opcion": "Pata muslo al horno con aderezo + Salteadito oriental + Ensalada de lechuga, tomate y huevo",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3123",
+    "fecha": "06/16/2023",
+    "opcion": "Pata muslo al horno con aderezo + Milanesas de berenjenas + Fugazza integral de queso",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3124",
+    "fecha": "06/16/2023",
+    "opcion": "Pata muslo al horno con aderezo + Milanesas de berenjenas + Ensalada de lechuga, tomate y huevo",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3125",
+    "fecha": "06/16/2023",
+    "opcion": "Pechugas a la napolitana + Papas a la provenzal + Fugazza integral de queso",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3126",
+    "fecha": "06/16/2023",
+    "opcion": "Pechugas a la napolitana + Papas a la provenzal + Ensalada de lechuga, tomate y huevo",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3127",
+    "fecha": "06/16/2023",
+    "opcion": "Pechugas a la napolitana + Salteadito oriental + Fugazza integral de queso",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3128",
+    "fecha": "06/16/2023",
+    "opcion": "Pechugas a la napolitana + Salteadito oriental + Ensalada de lechuga, tomate y huevo",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3129",
+    "fecha": "06/16/2023",
+    "opcion": "Pechugas a la napolitana + Milanesas de berenjenas + Fugazza integral de queso",
+    "tipo": "Veggie"
+  },
+  {
+    "idMenu": "3130",
+    "fecha": "06/16/2023",
+    "opcion": "Pechugas a la napolitana + Milanesas de berenjenas + Ensalada de lechuga, tomate y huevo",
+    "tipo": "Veggie"
+  }
+]
